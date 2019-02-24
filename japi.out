@@ -1,0 +1,88 @@
+Katies-MacBook:PD5 katiebohlin$ python japi.py
+Enter a stock symbol: AAPL
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AAPL",
+            "2. price": "172.8300",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:55"
+        }
+    ]
+}
+The current price of AAPL is 172.8300
+Enter a stock symbol: LUV
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "LUV",
+            "2. price": "53.5900",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:42"
+        }
+    ]
+}
+The current price of LUV is 53.5900
+Enter a stock symbol: BILI
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "BILI",
+            "2. price": "19.4800",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:23"
+        }
+    ]
+}
+The current price of BILI is 19.4800
+Enter a stock symbol: NKE
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "NKE",
+            "2. price": "84.7650",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:58"
+        }
+    ]
+}
+The current price of NKE is 84.7650
+Enter a stock symbol: YUM
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "YUM",
+            "2. price": "95.3850",
+            "3. volume": "--",
+            "4. timestamp": "2019-02-22 15:59:55"
+        }
+    ]
+}
+The current price of YUM is 95.3850
+Enter a stock symbol: quit
+Katies-MacBook:PD5 katiebohlin$ 
