@@ -23,3 +23,4 @@ while symbol != 'quit' :
 		#f=open('japi.out','a')
 		print stockData
 		print 'The current price of '+symbol+' is '+stockDict.get('Stock Quotes')[0].get('2. price')
+print "Stock Quotes retrieved successfully!"
